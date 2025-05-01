@@ -11,7 +11,7 @@ This repository is designed to group together automation helpers across various 
 
 ## Available Toolsets
 
-### 📡 CloudWatch
+### CloudWatch
 
 Scripts for monitoring EC2 instance health using CloudWatch alarms and integrating with Slack via Zapier webhooks.
 
