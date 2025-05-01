@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cloudwatch_zapier_webhook.iml" filepath="$PROJECT_DIR$/.idea/cloudwatch_zapier_webhook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../aws_tools/.idea/aws_tools.iml" filepath="$PROJECT_DIR$/../aws_tools/.idea/aws_tools.iml" />
     </modules>
   </component>
 </project>

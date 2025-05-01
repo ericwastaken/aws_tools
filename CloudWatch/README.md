@@ -67,7 +67,7 @@ Each webhook URL generates a **unique SNS topic name**, based on a short hash of
 #### Example
 
 ```bash
-./add_zapier_to_alarm.sh FordPrefectRebootOnStatusFail us-east-1 https://hooks.zapier.com/hooks/catch/64788/2pqt81k/
+./add_zapier_to_alarm.sh FordPrefectRebootOnStatusFail us-east-1 https://hooks.zapier.com/hooks/catch/99999/xxxxxxx/
 ```
 
 ---
