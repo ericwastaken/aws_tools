@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5722f9b-74a3-43ec-881d-f525d058361f" name="Changes" comment="Readme tweaks. License file add." />
+    <list default="true" id="a5722f9b-74a3-43ec-881d-f525d058361f" name="Changes" comment="Clears out a leaked webhook that has now been revoked.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../aws_tools" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -40,13 +42,13 @@
     "SHELLCHECK.PATH": "/Users/eric/Library/Application Support/JetBrains/WebStorm2024.1/plugins/Shell Script/shellcheck",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/eric/ResilioSync/Develop/projects/in42-oss/cloudwatch_zapier_webhook",
+    "last_opened_file_path": "/Users/eric/ResilioSync/Develop/projects/in42-oss/aws_tools",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "web-ide.project.structure",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -72,6 +74,8 @@
       <workItem from="1746068828885" duration="139000" />
       <workItem from="1746068980852" duration="3828000" />
       <workItem from="1746114860137" duration="5000" />
+      <workItem from="1746119102059" duration="1037000" />
+      <workItem from="1746202857517" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit with some CloudWatch tools.">
       <option name="closed" value="true" />
@@ -97,16 +101,36 @@
       <option name="project" value="LOCAL" />
       <updated>1746072987906</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Clears out a leaked webhook that has now been revoked.">
+      <option name="closed" value="true" />
+      <created>1746119519937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746119519938</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit with some CloudWatch tools." />
     <MESSAGE value="Git Ignore" />
     <MESSAGE value="Readme tweaks. License file add." />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme tweaks. License file add." />
+    <MESSAGE value="Clears out a leaked webhook that has now been revoked." />
+    <option name="LAST_COMMIT_MESSAGE" value="Clears out a leaked webhook that has now been revoked." />
   </component>
 </project>
